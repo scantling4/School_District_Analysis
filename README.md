@@ -7,6 +7,8 @@
 The purpose of this analysis was to help, Maria, who is the chief data scientist for a city school  district, to analyze information from a variety of sources and formats. She was tasked with preparing all standardized test data for analysis and to provide insights and patterns. These can be used to inform decisions regarding school budgets and priorities. FERPA had to be kept in mind while completing this analysis because it protects the privacy of student records and we handled such data in this analysis. Some of the data (Thomas High School’s ninth graders grades) was altered. In order to uphold state-testing standards, we helped Maria remove the data from the corrupted data and we re-ran the initial school district analysis. 
 
 ### Results 
+(had difficuly uploading images so they are in the issues)
+
 - The district summary was not affected by the changes. (image in issue 1)
 
 - The school summary changed as a result of removing the 9th grade scores from Thomas High School. (image in issue 2)
