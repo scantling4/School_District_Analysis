@@ -9,18 +9,19 @@ The purpose of this analysis was to help, Maria, who is the chief data scientist
 ### Results 
 (had difficuly uploading images so they are in the issues)
 
-- The district summary was not affected by the changes. (image in issue 1)
+- The district summary was not affected by the changes. The values are the same as when the analysis was initially run with the 9th graders grades. (image in issue 1)
 
 - The school summary changed as a result of removing the 9th grade scores from Thomas High School. (image in issue 2)
 
 - Replacing the ninth graders’ scores improves Thomas High School’s performance drastically in comparison to other schools. They are ranked second amongst the highest scoring schools. (image in issue 3)
 
-- Replacing the ninth-grade scores did not affect the math and reading scores by grade because a NaN value stood in place of the altered score. (image in issue 4)
+- Replacing the ninth-grade scores did not affect the math and reading scores by grade because a NaN value stood in place of the initally altered score. (image in issue 4)
 
-- The % passing for math, reading, and overall all increased in the bin containing the spending ranges $630-$644 (per student). This is a result of the spending per student staying the same despite removing the 9th grades reading and math scores, yet the % passing rates increased. (image in issue 5)
+- The % passing for math, reading, and overall all increased in the bin containing the spending ranges $630-$644 (per student). This is a result of the spending per student staying the same after removal of the 9th grades reading and math scores. The % passing rates, however, increased. (image in issue 5)
 
 - Because Thomas High School is a medium sized high school (1000-2000 students) as defined by the analysis metrics, the % passing math, reading and overall all increased for the medium sized bin because of the removal of the ninth grade grades. 
 (image in issue 6)
+
 - Because Thomas High School is a charter school, the % passing math, reading and overall passing rates for charter schools increased. (image in issue 7)
 
 ### Summary
